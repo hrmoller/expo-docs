@@ -101,7 +101,7 @@ Cancel all scheduled notifications.
 
 ### Related types
 
- `LocalNotification`
+#### LocalNotification  
 An object used to describe the local notification that you would like to present or schedule.
 
 -   **title (_string_)** -- title text of the notification
